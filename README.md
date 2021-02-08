@@ -1,14 +1,14 @@
 ## After code download, Write command on project root
 
-```yearn```
+```yarn```
 
 ## After that write command for project run
 
-```yearn dev```
+```yarn dev```
 
 ## For Build write command for project build
 
-```yearn build```
+```yarn build```
 
 ## For type script complile, run command on project root
 
